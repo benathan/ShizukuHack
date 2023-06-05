@@ -1,4 +1,4 @@
-# ShizukuHack
+# Shizuku
 
 ## Background
 
